@@ -1,0 +1,6 @@
+/.vscode/
+nimcache/
+/htmldocs/
+tester*
+tempfiletest
+/testresults/
